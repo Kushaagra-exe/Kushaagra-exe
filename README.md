@@ -16,11 +16,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushaagra-exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=kushaagra-exe&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=kushaagra-exe&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kushaagra-exe&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+
+---
+### Leetcode Stats😎
+![Leetcode Stats](https://leetcard.jacoblin.cool/Kushaagra_exe?font=milonga)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kushaagra-exe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
