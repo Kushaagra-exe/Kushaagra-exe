@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Generative AI<br>🌱 I’m currently learning Langchain, Ollama, Huggingface and DeepLearning<br>👨‍💻 All my Certifications can be found on http://kushaagramehta.co<br>💬 Ask me about Cyber Security | AI | ML | Gen Ai<br>📫 How to reach me <a href="virmanikrishang1710+github@gmail.com">iamkushaagra@gmail.com</a>
+🔭 I’m currently working on Machine Learning and Generative AI<br>🌱 I’m currently learning Langchain, Ollama, Huggingface and DeepLearning<br>👨‍💻 All my Certifications can be found on https://kushaagramehta.co<br>💬 Ask me about Cyber Security | AI | ML | Gen Ai<br>📫 How to reach me <a href="iamkushaagra@gmail.com">iamkushaagra@gmail.com</a>
 
 
 ## 🌐 Socials:
